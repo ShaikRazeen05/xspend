@@ -17,16 +17,12 @@ An intelligent and user-friendly **Expense Tracker** web application that helps 
 
 ---
 
-## Tech Stack
+## Tech used
 
 ### Frontend
 - React.js
 - Tailwind CSS or Bootstrap
 - Axios (for API calls)
-
-### Backend *(if applicable)*
-- Node.js + Express.js
-- MongoDB or PostgreSQL (for storing user expenses)
 
 ### Machine Learning
 - Python (scikit-learn)
