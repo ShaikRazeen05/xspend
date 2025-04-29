@@ -27,6 +27,7 @@ An intelligent and user-friendly **Expense Tracker** web application that helps 
 ### Machine Learning
 - Python (scikit-learn)
 - Random Forest classifier for auto-categorizing expenses
+- **Multi-Layer Perceptron (MLP)** for deeper categorization
 - Pickle for model serialization
 - Flask or FastAPI for ML API
 
